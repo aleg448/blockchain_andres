@@ -6,7 +6,7 @@ empleado.append((1, 1, 2016))
 
 print(empleado)
 
-alumno=("pedro",[7, 9] , "julian",[7, 9])
+alumno=("pedro",[7, 9] , "julian",[7, 9.5])
 
 print(alumno)
 
